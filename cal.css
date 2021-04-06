@@ -1,0 +1,17 @@
+#a,#b,#c,#d,#e,#f
+{
+  background-color: rgb(71, 179, 143);
+  block-size: auto;
+}
+div {
+    background-color:white;
+    width: 500px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    background-image: url("https://d144mzi0q5mijx.cloudfront.net/img/C/A/Calculator.png") ;
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position:center top 2%;
+    
+  }
